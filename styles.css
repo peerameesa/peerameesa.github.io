@@ -41,7 +41,7 @@ nav ul li a:hover{
     z-index: -1;
 }
 body {
-    background-image: url(static/images/peeramesa-background.jpg);
+    background-image: url(static/images/peeramesa-background.png);
     background-size: cover;
     background-repeat: no-repeat;
     overflow-x: hidden;
