@@ -40,14 +40,20 @@ nav ul li a:hover{
     z-index: -1;
 }
 body {
+   /*
     background-image: url(static/images/peeramesa-background.png);
     background-size: cover;
     background-repeat: no-repeat;
-    overflow-x: hidden;
+    overflow-x: hidden;*/
+    background-color: black;
 }
 .detel{
-    padding-left: 8%;
-    padding-top: 15%;
+   /*margin-left: 60%;
+   padding-left: 50px;
+   padding-top: 15%;
+   background: #423937;*/
+   margin: 5%;
+   background-color: #423937;
 }
 
 .detel h1{
